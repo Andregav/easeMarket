@@ -76,7 +76,7 @@
     .links:nth-child(1)::after,
     .links:nth-child(2)::after,
     .links:nth-child(3)::after {
-        right: -20px;
+        right: -20%;
     }
 }
 
