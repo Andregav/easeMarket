@@ -152,7 +152,7 @@ body {
 }
 .hero_text {
   position: absolute;
-  top: 280px;
+  top: 50%;
   left: 350px;
   color: #ffffff;
 }
